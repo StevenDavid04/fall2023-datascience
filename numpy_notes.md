@@ -3,5 +3,7 @@ NumPy is a popular Python library for numerical and scientific computing. It pro
 
 ## NumPy Functions
 Before you can use it, you need to import NumPy into your python script.
-import numpy as np
 
+```python
+import numpy as np
+```
